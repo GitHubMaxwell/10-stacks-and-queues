@@ -1,0 +1,29 @@
+{
+  "name": "10-stacks-and-queues",
+  "version": "1.0.0",
+  "description": "![cf](http://i.imgur.com/7v5ASc8.png) Stacks and Queues Data Structures ====",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose --coverage --detectOpenHandles",
+    "test-watch": "jest --watchAll",
+    "lint": "eslint **/*.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GitHubMaxwell/10-stacks-and-queues.git"
+  },
+  "author": "maxwell rediker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GitHubMaxwell/10-stacks-and-queues/issues"
+  },
+  "homepage": "https://github.com/GitHubMaxwell/10-stacks-and-queues#readme",
+  "dependencies": {
+    "babel-env": "^2.4.1",
+    "babel-eslint": "^8.2.5",
+    "babel-register": "^6.26.0",
+    "dotenv": "^6.0.0",
+    "jest": "^23.2.0"
+  }
+}
