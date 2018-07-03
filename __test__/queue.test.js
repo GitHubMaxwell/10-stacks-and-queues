@@ -21,6 +21,7 @@ describe('QUEUE Module', () => {
     expect(newQueue.front.value).toEqual(2);
   });
 
+  
   it('SERIALIZE QUEUE method', () => {
     const newQueue = new Queue;
     newQueue.enqueue(1);
