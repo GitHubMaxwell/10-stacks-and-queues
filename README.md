@@ -9,7 +9,7 @@
 
 * TRAVIS: https://travis-ci.com/GitHubMaxwell/10-stacks-and-queues
 * HEROKU: https://lab10-max.herokuapp.com/
-* GitHUB PR:
+* GitHUB PR: https://github.com/GitHubMaxwell/10-stacks-and-queues/pull/1
 
 ## Steps
 * fork/clone code
