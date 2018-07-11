@@ -15,3 +15,17 @@
 * fork/clone code
 * npm install
 * npm test to see all passing tests
+
+## Big O
+
+Queue
+* Enqueue Space O(1) / Time O(n)
+* Dequeue Space O(1) / Time O(1)
+* Serialize Space O(n) / Time O(n)
+* Deserialize Space O(n) / Time O(n)
+
+Stack
+* Push Space O(1) / Time O(1)
+* Pop Space O(1) / Time O(n)
+* Serialize Space O(n) / Time O(n)
+* Deserialize Space O(n) / Time O(n)
